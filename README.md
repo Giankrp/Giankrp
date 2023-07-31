@@ -1,66 +1,71 @@
 
-# Hi there! I'm Gian Ruiz 👋
+# Hi 👋, I'm Gian Ruiz
 
-![Profile Views](https://komarev.com/ghpvc/?username=giankrp&label=Profile%20views&color=0e75b6&style=flat)
+Welcome to my personal GitHub page!
 
 <div align="center">
-  <img src="https://i.imgur.com/R72RRCg.png" alt="Welcome to my personal GitHub page!" width="600" />
+  <img src="https://i.imgur.com/R72RRCg.png" alt="Profile Picture" width="320" />
 </div>
 
 ## About Me
 
-I'm a passionate developer from Colombia, currently studying at Henry as a student. I'm fluent in Spanish, English, and a bit of Portuguese. My main interests lie in Web Development & Cybersecurity, and I'm constantly learning new things, including Cybersecurity, Rust, and TypeScript.
-
-- 🔭 I’m currently working on [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/)
-- 🌱 I’m currently learning **Go** and exploring new technologies.
-- 🌟 Main languages: JavaScript, Python
-- 💻 I use both Windows and Linux as my operating systems.
-- 🖌️ I have a passion for drawing and design.
-- 🎵 I love rock argentino, jazz, and blues.
-
-## Connect with Me
-
-You can find me on various platforms:
-
-- Twitter: [@gian](https://twitter.com/gian)
-- LinkedIn: [Gian Carlo Ruiz Patiño](https://linkedin.com/in/gian%20carlo%20ruiz%20pati%C3%B1o)
-- Facebook: [Gian Ruiz](https://fb.com/gian%20ruiz)
-- Instagram: [@giancarloruizp](https://instagram.com/giancarloruizp)
+- 🏫 @Henry Student
+- 🌍 Spanish, English, and a bit of Portuguese
+- 🔎 Main interests in Web Development & Cybersecurity
+- 🌱 Currently learning about Cybersecurity, Rust, and TypeScript
+- 🌟 Main languages: JavaScript and Python
+- 💻 Windows and Linux user
+- 🖌️ Love to draw and design
+- 🎵 Love rock argentino, jazz, and blues
+- ⬛ Simple and minimalist
+- 💎 Discord: acccord_
 
 ## Languages and Tools
 
-Here are some of the languages and tools I frequently work with:
-
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%23000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/typescript-%23000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/react-%23000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/redux-%23000000?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/webpack-%23000000.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack">
-  <img src="https://img.shields.io/badge/postgres-%23000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/MySQL-%23000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/-Python-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/javascript-%23000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%23000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Add more badges for other languages and tools -->
 </div>
+
+## Current Projects
+
+- [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/)
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giankrp&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=giankrp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giankrp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=giankrp&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giankrp&" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giankrp" alt="GitHub Streak" />
 </p>
+
+## Connect with Me
+
+<div align="center">
+  <a href="https://twitter.com/gian" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/gian carlo ruiz patiño" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/gian ruiz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/giancarloruizp" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</div>
+
 
