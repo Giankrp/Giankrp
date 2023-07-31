@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://i.imgur.com/R72RRCg.png)
+![Header](https://github.com/Giankrp/Giankrp/blob/main/Screenshot_2023-07-31-17-16-05_1366x768.png)
 
 Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my personal GitHub page! Here's a little bit about me:
 
