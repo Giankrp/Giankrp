@@ -74,9 +74,8 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ## Get in Touch!
 
 - 📫 You can reach me at gianruiz2003@gmail.com.
-- 🐦 Find me on Twitter: [@gian](https://twitter.com/gian).
-- 🔗 Connect with me on LinkedIn: [Gian Carlo Ruiz Patiño](https://linkedin.com/in/gian%20carlo%20ruiz%20patiño).
-- 📘 Check out my Facebook profile: [Gian Ruiz](https://fb.com/gian%20ruiz).
+- 🐦 Find me on Twitter: [@GiankRP](https://twitter.com/GiankRP).
+- 🔗 Connect with me on LinkedIn: [Gian Carlo Ruiz Patiño](www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183).
 - 📸 Follow me on Instagram: [giancarloruizp](https://instagram.com/giancarloruizp).
 
 ## GitHub Stats
