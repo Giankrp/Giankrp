@@ -3,6 +3,43 @@
 
 ![Header](https://github.com/Giankrp/Giankrp/blob/main/Screenshot_2023-07-31-17-16-05_1366x768.png)
 
+```console
+gian@github:~$ echo "Welcome to Arch Linux! 🐧"
+Welcome to Arch Linux! 🐧
+
+gian@github:~$ uname -a
+Linux github 5.14.0-arch1-1 #1 SMP PREEMPT Tue, 17 Aug 2023 10:00:00 +0000 x86_64 GNU/Linux
+
+gian@github:~$ lsb_release -a
+No LSB modules are available.
+Distributor ID: Arch
+Description:  Arch Linux
+Release:        rolling
+Codename:       n/a
+
+gian@github:~$ pacman -Qi base | grep Version
+Version         : 2-6
+
+gian@github:~$ lsblk
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 238.5G  0 disk
+├─sda1   8:1    0   512M  0 part /boot/efi
+├─sda2   8:2    0   100G  0 part /
+└─sda3   8:3    0 138.5G  0 part /home
+
+gian@github:~$ systemctl status
+● github
+    State: running
+    Jobs: 0 queued
+    Failed: 0 units
+
+gian@github:~$ cat /etc/pacman.conf
+#
+# /etc/pacman.conf
+#
+# See the pacman.conf(5) manpage for option and repository directives
+[sudo] Password for Gian:
+```
 Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my personal GitHub page! Here's a little bit about me:
 
 - 🏫 I am a student at Henry, where I'm exploring the fascinating world of Web Development and Systems Programming.
@@ -28,7 +65,7 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ![Neovim](https://img.shields.io/badge/neovim-%23000000?style=for-the-badge&logo=neovim&logoColor=white)
 ![Crystal](https://img.shields.io/badge/crystal-%23000000?style=for-the-badge&logo=crystal&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23000000?style=for-the-badge&logo=go&logoColor=white)
-
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 ## Current Projects and Activities
 
 - 🚀 Working on [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/), an exciting web project.
