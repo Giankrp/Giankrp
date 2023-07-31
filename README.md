@@ -5,9 +5,9 @@
 
 Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my personal GitHub page! Here's a little bit about me:
 
-- 🏫 I am a student at Henry, where I'm exploring the fascinating world of Web Development and Systems Programming
-- 🌍 Fluent in Spanish, English.
-- 🌟 My main programming languages are JavaScript, go and crystal.
+- 🏫 I am a student at Henry, where I'm exploring the fascinating world of Web Development and Systems Programming.
+- 🌍 Fluent in Spanish and English.
+- 🌟 My main programming languages are JavaScript, Go, and Crystal.
 - 💻 I enjoy working on both Windows and Linux.
 - 🚩 My primary area of interest is web development.
 - ⬛ I believe in keeping things simple and minimalist.
@@ -39,11 +39,6 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 - 🔗 Connect with me on LinkedIn: [Gian Carlo Ruiz Patiño](https://linkedin.com/in/gian%20carlo%20ruiz%20patiño).
 - 📘 Check out my Facebook profile: [Gian Ruiz](https://fb.com/gian%20ruiz).
 - 📸 Follow me on Instagram: [giancarloruizp](https://instagram.com/giancarloruizp).
-
-## Fun Facts About Me
-
-- 😄 I used to work as a nurse!
-- 🎨 I'm not just a developer, I also enjoy drawing and design.
 
 ## GitHub Stats
 
