@@ -5,16 +5,13 @@
 
 Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my personal GitHub page! Here's a little bit about me:
 
-- 🏫 I am a student at Henry, where I'm exploring the fascinating world of Web Development & Cybersecurity.
-- 🌍 Fluent in Spanish, English, and a bit of Portuguese.
-- 🔎 Currently, I'm focused on learning more about Cybersecurity, Rust, and TypeScript.
-- 🌟 My main programming languages are JavaScript and Python.
+- 🏫 I am a student at Henry, where I'm exploring the fascinating world of Web Development and Systems Programming
+- 🌍 Fluent in Spanish, English.
+- 🌟 My main programming languages are JavaScript, go and crystal.
 - 💻 I enjoy working on both Windows and Linux.
 - 🚩 My primary area of interest is web development.
-- 🖌️ In addition to coding, I love drawing and design.
-- 🎵 I have a strong passion for rock argentino, jazz, and blues.
 - ⬛ I believe in keeping things simple and minimalist.
-- 💎 You can find me on Discord as acccord_.
+- 💎 You can find me on Discord as Gian.
 
 ## Some of My Tools and Technologies
 
@@ -26,15 +23,13 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%23000000?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23000000?style=for-the-badge&logo=redux&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%23000000.svg?style=for-the-badge&logo=webpack&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23000000?style=for-the-badge&logo=python&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" />
 ## Current Projects and Activities
 
 - 🚀 Working on [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/), an exciting web project.
