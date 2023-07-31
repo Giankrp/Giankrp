@@ -25,8 +25,9 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ![Redux](https://img.shields.io/badge/redux-%23000000?style=for-the-badge&logo=redux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Heart](https://img.shields.io/badge/-❤️-ff69b4?style=for-the-badge)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge)
+![Neovim](https://img.shields.io/badge/neovim-%23000000?style=for-the-badge&logo=neovim&logoColor=white)
+![Crystal](https://img.shields.io/badge/crystal-%23000000?style=for-the-badge&logo=crystal&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23000000?style=for-the-badge&logo=go&logoColor=white)
 
 ## Current Projects and Activities
 
