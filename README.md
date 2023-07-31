@@ -25,12 +25,13 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ![Redux](https://img.shields.io/badge/redux-%23000000?style=for-the-badge&logo=redux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white)
-<i class="nf nf-fa-heart"></i> <i class="nf nf-custom-vim"></i>
+![Heart](https://img.shields.io/badge/-❤️-ff69b4?style=for-the-badge)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge)
 
 ## Current Projects and Activities
 
 - 🚀 Working on [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/), an exciting web project.
-- 🌱 Currently, I'm expanding my knowledge of Go programming language.
+- 🌱 Currently, I'm expanding my knowledge of the Go programming language.
 
 ## Get in Touch!
 
