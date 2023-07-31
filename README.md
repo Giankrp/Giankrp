@@ -4,41 +4,41 @@
 ![Header](https://github.com/Giankrp/Giankrp/blob/main/Screenshot_2023-07-31-17-16-05_1366x768.png)
 
 ```console
-gian@github:~$ echo "Welcome to Arch Linux! 🐧"
-Welcome to Arch Linux! 🐧
 
-gian@github:~$ uname -a
+👋 Welcome to Arch Linux! 🐧
+💻 gian@github:~$ uname -a
 Linux github 5.14.0-arch1-1 #1 SMP PREEMPT Tue, 17 Aug 2023 10:00:00 +0000 x86_64 GNU/Linux
 
-gian@github:~$ lsb_release -a
+💻 gian@github:~$ lsb_release -a
 No LSB modules are available.
 Distributor ID: Arch
 Description:  Arch Linux
 Release:        rolling
 Codename:       n/a
 
-gian@github:~$ pacman -Qi base | grep Version
+💻 gian@github:~$ pacman -Qi base | grep Version
 Version         : 2-6
 
-gian@github:~$ lsblk
+💻 gian@github:~$ lsblk
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda      8:0    0 238.5G  0 disk
 ├─sda1   8:1    0   512M  0 part /boot/efi
 ├─sda2   8:2    0   100G  0 part /
 └─sda3   8:3    0 138.5G  0 part /home
 
-gian@github:~$ systemctl status
+💻 gian@github:~$ systemctl status
 ● github
     State: running
     Jobs: 0 queued
     Failed: 0 units
 
-gian@github:~$ cat /etc/pacman.conf
+💻 gian@github:~$ cat /etc/pacman.conf
 #
 # /etc/pacman.conf
 #
 # See the pacman.conf(5) manpage for option and repository directives
-[sudo] Password for Gian:
+
+💻 [sudo] Password for Gian:
 ```
 Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my personal GitHub page! Here's a little bit about me:
 
