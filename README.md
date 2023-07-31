@@ -25,11 +25,8 @@ Hi there! I'm Gian Ruiz, a passionate developer from Colombia. Welcome to my per
 ![Redux](https://img.shields.io/badge/redux-%23000000?style=for-the-badge&logo=redux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%23000000?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" />
+<i class="nf nf-fa-heart"></i> <i class="nf nf-custom-vim"></i>
+
 ## Current Projects and Activities
 
 - 🚀 Working on [Talent Forge](https://deploy-front-end-git-main-shakkus.vercel.app/), an exciting web project.
