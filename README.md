@@ -1,39 +1,3 @@
-
-# Welcome to My GitHub, im Gian!!! 👋
-
-![Header](https://github.com/Giankrp/Giankrp/blob/main/2024-12-22_16-14.png)
-
-```console
-👋 Welcome to Arch Linux! 🐧
-💻 gian@github:~$ uname -a
-Linux github 5.14.0-arch1-1 #1 SMP PREEMPT Tue, 17 Aug 2023 10:00:00 +0000 x86_64 GNU/Linux
-
-💻 gian@github:~$ lsb_release -a
-No LSB modules are available.
-Distributor ID: Arch
-Description:  Arch Linux
-Release:        rolling
-Codename:       n/a
-
-💻 gian@github:~$ pacman -Qi base | grep Version
-Version         : 2-6
-
-💻 gian@github:~$ lsblk
-NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
-sda      8:0    0 238.5G  0 disk
-├─sda1   8:1    0   512M  0 part /boot/efi
-├─sda2   8:2    0   100G  0 part /
-└─sda3   8:3    0 138.5G  0 part /home
-
-💻 gian@github:~$ systemctl status
-● github
-    State: running
-    Jobs: 0 queued
-    Failed: 0 units
-
-💻 [sudo] Password for Gian: *********
-```
-
 # Gian Carlo Ruiz Patiño 
 
 **Backend Developer | Go & Java | Systems Architect**
@@ -41,6 +5,9 @@ sda      8:0    0 238.5G  0 disk
 Developer from Colombia currently residing in Spain. I come from a background in IT systems support, which has given me a deep understanding of how code interacts with infrastructure, servers, and networks. Currently, I apply this knowledge to enterprise software development, designing robust APIs, secure architectures, and optimizing databases.
 
 My philosophy is simple: **write clean, secure, and efficient code**. I work almost exclusively from the terminal, which gives me speed and total control over my workflow.
+<p align="center">
+  <img src="https://github.com/Giankrp/Giankrp/blob/main/2024-12-22_16-14.png" width="800" alt="Terminal Fastfetch">
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -80,3 +47,34 @@ When I'm not coding, I document advanced configurations for development tools. Y
 
 ---
 📫 **Contact:** gianruiz2003@gmail.com | [LinkedIn](www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183)
+
+```console
+👋 Welcome to Arch Linux! 🐧
+💻 gian@github:~$ uname -a
+Linux github 5.14.0-arch1-1 #1 SMP PREEMPT Tue, 17 Aug 2023 10:00:00 +0000 x86_64 GNU/Linux
+
+💻 gian@github:~$ lsb_release -a
+No LSB modules are available.
+Distributor ID: Arch
+Description:  Arch Linux
+Release:        rolling
+Codename:       n/a
+
+💻 gian@github:~$ pacman -Qi base | grep Version
+Version         : 2-6
+
+💻 gian@github:~$ lsblk
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 238.5G  0 disk
+├─sda1   8:1    0   512M  0 part /boot/efi
+├─sda2   8:2    0   100G  0 part /
+└─sda3   8:3    0 138.5G  0 part /home
+
+💻 gian@github:~$ systemctl status
+● github
+    State: running
+    Jobs: 0 queued
+    Failed: 0 units
+
+💻 [sudo] Password for Gian: *********
+```
