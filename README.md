@@ -79,4 +79,4 @@ My philosophy is simple: **write clean, secure, and efficient code**. I work alm
 When I'm not coding, I document advanced configurations for development tools. You can watch my tutorials on Neovim, Zed, Go, and Nuxt on my **[YouTube Channel](https://www.youtube.com/@giankrp7257)**.
 
 ---
-📫 **Contact:** gianruiz2003@gmail.com[cite: 1] | [LinkedIn](www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183)
+📫 **Contact:** gianruiz2003@gmail.com | [LinkedIn](www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183)
